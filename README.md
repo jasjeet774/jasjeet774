@@ -52,8 +52,10 @@ I hope you have a good day!
 
 ---
 
-### GitHub Stats
 
+
+<!--
+### GitHub Stats
 ![Jasjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasjeet774&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasjeet774&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasjeet774&layout=compact&theme=radical) -->
